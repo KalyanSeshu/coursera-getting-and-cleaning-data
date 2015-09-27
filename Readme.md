@@ -1,4 +1,4 @@
-##
+# Gettings and Cleaning Data Course Project
 
 - Download the dataset if it does not already exist in the working directory
 - Load the activity and feature info
